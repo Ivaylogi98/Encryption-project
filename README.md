@@ -1,5 +1,5 @@
 # Encryption-project
-Encrypting and decrypting a message with assembly. Project for the university course Computer Architectures Practicum
+Encrypting and decrypting a text with assembly. Project for the university course Computer Architectures Practicum
 # Getting started
 1. Install DOSBox
 2. Copy `proj.asm` to `tasm/BIN`
